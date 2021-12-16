@@ -12,3 +12,5 @@ Have a great day
 
 __Diary: Free-Online-Browser__
 Day 1: It is currently 6:42 Pm and I am working on this project for the simplicity of quote on quote fun Im currently deciding what coding language to use. Probably going to stick with Python even though im just learning it :|
+
+Day 2: Honestly thinking if it's too late to quit this project and throw it in the past. Im thinking of turning this into some sort of application with Pycharm. Anyone have any ideas I will turn the Github post Public. Dm on discord if you have any suggestions. Exo🤟🏽#2507
